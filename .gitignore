@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>agencia de viajes</title>
+</head>
+      
+</body>
+<article>
+    <header>
+      <h3>
+        <a href="/my-blog-post">blog de informacion de agencia de viaje</a>
+      </h3>
+    </header>
+    <section>
+      <p>encontratas informacion resumida </p>
+    </section>
+    <footer>
+      <small>
+        Posted on <time datetime="2023-03-29T19:00">Marz 29</time> in <a href="/category/code">Code</a>
+      </small>
+    </footer>
+  </article>
+<body>
+    <section class="section">
+        <div class="container">
+            <div class="heading">
+                <h1 class="title"> agencia de viajes</h1>
+                <h2 class="subtitle">
+                    que es una agencia de viajes <strong>sections</strong>, like the one you're currently reading
+                </h2>
+            </div>
+
+            <div class="columns ">
+                <div class="columns" figure class="agencia" <img src="agencia.png" alt="">
+                    <figure>
+                </div>
+                <div> class ="columns">
+                    <h1 class="title">Son empresas que se dedican profesional y comercialmente en exclusiva al ejercicio
+                        de mediación y/u organización de servicios turísticos, pudiendo utilizar medios propios en la
+                        prestación de los mismos.</h1>
+                    <h2 class="subtitle">caracteristicas de las agencias</h2>"
+                    <details>
+                        <summary>Read more</summary>
+                        <h1>La mayoría de las agencias de viajes no solo venden boletos de avión o tren; sus servicios
+                            varían y muchas de ellas venden más paquetes de cruceros que boletos de avión, así como
+                            servicios relacionados con hoteles. La mayoría de las agencias de viajes también llevan a
+                            cabo alquiler de coches para sus clientes o se concentran en la organización de viajes para
+                            grupos a diferentes destinos..</h1>
+
+                        <img src="Productosviajes_.jpg" alt="caracteristicas">
+                    </details>
+                        <summary>Read more</summary>
+   
+
+
+
+                </div>
+    </section>
+</body>
+
+</html>
