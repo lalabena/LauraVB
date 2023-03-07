@@ -1,0 +1,76 @@
+# LauraVB
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <article>
+        <header>
+            <h1>
+                <a href="pagina 2.html">Informacion de Agencia de Viajes</a>
+            </h3>
+        </header>
+        <section>
+            <p>Encontraras informacion resumida </p>
+        </section>
+        <footer>
+            <small>
+                Posted on <time datetime="2023-03-29T23:00">Marz 03</time> in <a href="/category/code">Code</a>
+            </small>
+        </footer>
+    </article>
+
+    <head>
+
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Document</title>
+        </head>
+
+    <body>
+        <img src="imagenes/VIAJES.png">
+
+        <ol>
+            <li>Inicio</li>
+            <ul>
+                <li>Breve presentacion</li>
+                <li>Tipos de agencia</li>
+                <li>funcionamiento o Caracteristicas</li>
+                <ul>
+                    <li>
+                        <ol>
+
+                            <h1>Agencia de viajes</h1>
+                            <h2>Que es una agencia </h2>
+                            <p> Son empresas que se dedican profesional y comercialmente en exclusiva al ejercicio
+                                de mediación y/u organización de servicios turísticos, pudiendo utilizar medios propios
+                                en la prestación de los mismos.
+
+                                Su objetivo principal conseguir la satisfacción, la fidelización de los clientes que
+                                demandan servicios/productos turísticos de calidad que son distribuidos por las agencias
+                                de viajes y que cubren sus distintas necesidades y motivacione</p>
+
+<body>
+    <img src="imagenes/agencia.png">
+
+    <h2>Tipos de Agencia </h2>
+    <p> Según su especialidad y actividad · Receptoras: los clientes son atraídos hacia sus ubicaciones. </p>
+    <li>Mayorista/Tour Operador</li>
+    <p>Se ocupa de la producción de viajes y servicios turísticos a la oferta. Su producto será comercializado a través
+        de las minoristas.</p>
+    <li>Minorista</li>
+    <P>no pueden producir programas ni paquetes turísticos, su función es la venta al cliente final de los paquetes
+        desarrollados anteriormente por la mayorista.</P>
+    <li> Mayoristas/minoristas (mixtas)</li>
+    <p>son aquellas que crean productos y los venden tanto a través de sus propias redes de agencias minoristas.</p>
+</body>
+<h2>Funciones o Caracteristicas </h2>
+<p> La agencia de viajes desarrolla tres funciones fundamentales; asesora, mediadora y productora, y que van a marcar
+    claramente el perfil del tipo de agencia de viajes según su función principal de entre estas tres. </p>
+<img src="imagenes/Productosviajes_.jpg">
+
+
+
+</html>
