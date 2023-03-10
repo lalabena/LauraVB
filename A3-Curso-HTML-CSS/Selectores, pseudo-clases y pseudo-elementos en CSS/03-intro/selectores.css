@@ -1,0 +1,18 @@
+.btn:hover {
+
+
+    background-color: green;
+    color: white;
+
+
+}
+
+.btn:hover::before {
+    content: "HECHO";
+
+}
+
+.btn:hover span {
+    display: nome;
+
+}
